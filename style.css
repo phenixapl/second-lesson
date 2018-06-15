@@ -1,0 +1,64 @@
+body {
+	background-color: #464646;
+	background-image: url(assets/treugolniki_fon_svet_91693_1920x1080.jpg);
+}
+figure{
+	font-size: 16px;
+	background-color: #3A2F46;
+
+}
+
+.wrap {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+header{
+ background: #DDC878;
+ border:15px solid #3A2F46;
+ border-radius: 40px;
+ font-size: 40px;
+
+ }
+ 
+h2{
+	background: #CDBD7C;
+}
+
+.content, nav{
+	height: 300px;
+	border-radius: 40px;
+	text-align: center;
+}
+.content{
+	background-color:#3A2F46; 
+	height: 1100px;
+	float:left;
+	width:80%;
+}
+
+nav{
+	background-color: #CDBD7C;
+	float:left;
+	width:14%;
+	margin-top:50px;
+	border:10px solid #3A2F46;
+
+}
+.dno {
+	margin-bottom: 50px;
+	clear: both;
+	font-size: 25px;
+}
+.top {
+	margin-top: 250px;
+	background-color: #DDC878;
+	border:1px solid #DDC878;
+}
+
+h1, h2{
+	margin: 20px;
+	padding: 20px;
+	border-radius: 50px;
+}
